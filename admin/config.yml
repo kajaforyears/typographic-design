@@ -3,7 +3,7 @@ backend:
   repo: kajaforyears/typographic-design
  # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: kaiayourheelsaresafe.netlify.app #Your site on netlify
+  site_domain: https://kaiayourheelsaresafe.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
