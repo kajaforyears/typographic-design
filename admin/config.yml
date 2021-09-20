@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: githubusername/typographic-design
+  repo: kajaforyears/typographic-design
  # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: kaiayourheelsaresafe.netlify.app #Your site on netlify
