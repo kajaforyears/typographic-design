@@ -1,20 +1,16 @@
 ---
-layout: page
-title: About
+header_feature_image: /uploads/log.jpg
+title: About Kaleidotype
+image: ../uploads/new-project-4.png
+subtitle: My Rationale
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
 ---
+The main purpose of my website is at follows: to explore the progression of logos over time, investigating how and why these designs have shifted. The rationale behind the design element of the site was to reflect the title, kaleidoscopes are traditionally iridescent so the logo was intended to represent this nature. The kaleidoscope motif is absolutely intentional, they are always changing and this is intended to showcase the everchanging nature of fonts within the digital age and across time.
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Each article will focus on 2 logo progressions, looking at how and why they have changed. These will be linked to popular culture in order to be relatable for the reader. Patterns will be evaluated including certain trends in designs, such as the growing shift towards minimalism, reflecting the statement "simplicity is the ultimate sophistication."
