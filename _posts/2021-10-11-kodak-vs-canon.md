@@ -2,7 +2,7 @@
 layout: post
 title: Kodak vs Canon
 date: 2021-10-11T18:56:17.387Z
-image: ../uploads/new-project-7.png
+image: ../uploads/new-project-8.png
 title_color: "#ffffff"
 comments: false
 tags:
