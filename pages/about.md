@@ -9,7 +9,7 @@ layout: page
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 The main purpose of my website is at follows: to explore the progression of logos over time, investigating how and why these designs have shifted. The rationale behind the design element of the site was to reflect the title, kaleidoscopes are traditionally iridescent so the logo was intended to represent this nature. The kaleidoscope motif is absolutely intentional, they are always changing and this is intended to showcase the everchanging nature of fonts within the digital age and across time.
 
